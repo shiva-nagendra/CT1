@@ -1,0 +1,6 @@
+{
+  "name": "CashTally",
+  "description": "A smart personal finance tracker to manage income and expenses, featuring AI-powered transaction parsing and detailed financial summaries.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
